@@ -1,0 +1,55 @@
+body.signin-body {
+  background-color: lightblue;
+}
+
+.container.signin-container {
+  margin-top: 8%;
+}
+
+.container {
+  padding-top: 5%;
+}
+
+.card.signin-card {
+  padding: 40px 0px 20px;
+  background-color: whitesmoke;
+  box-shadow: 2px 2px 5px rgba (0, 0, 0, 0.5);
+  -moz-box-shadow: 2px 2px 5px #000000;
+  -webkit-box-shadow: 2px 2px 5px #000000;
+  margin: auto;
+}
+
+img.signin-img {
+  padding: 0;
+  margin: auto;
+  display: block;
+  max-height: 300px;
+}
+
+form.login-form h1 {
+  color: black;
+  font-weight: bolder;
+  font-family: "Alex Brush", cursive;
+  font-size: 40px;
+  text-align: center;
+}
+
+form.login-form {
+  padding: 20px;
+  width: 70%;
+  margin: auto;
+}
+
+button.login-btn {
+  width: 100%;
+}
+
+form.login-form div.form-check {
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
+a.new-acc-link {
+  margin: 5px 10px;
+  display: block;
+}
